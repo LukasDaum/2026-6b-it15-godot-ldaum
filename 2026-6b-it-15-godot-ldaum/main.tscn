@@ -1,0 +1,25 @@
+[gd_scene format=3 uid="uid://cvx12244m065j"]
+
+[node name="Control" type="Control" unique_id=1864607293]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="Label" type="Label" parent="." unique_id=1805740117]
+layout_mode = 0
+offset_right = 40.0
+offset_bottom = 23.0
+theme_override_font_sizes/font_size = 32
+text = "text label"
+
+[node name="Button" type="Button" parent="." unique_id=1974565808]
+layout_mode = 0
+offset_left = 31.0
+offset_top = 51.0
+offset_right = 158.0
+offset_bottom = 100.0
+text = "button
+"
